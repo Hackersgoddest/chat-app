@@ -1,0 +1,12 @@
+# Node.js dependencies
+/node_modules
+
+# Compiled output
+/lib
+
+# Logs
+logs
+*.log
+
+# dotenv environment variable file
+.env
