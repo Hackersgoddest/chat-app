@@ -13,20 +13,20 @@ This project uses [Feathers](http://feathersjs.com). An open source framework fo
 
     ```
     cd path/to/feathers-chat
-    npm install
+    yarn
     ```
 
 3. Start your app
 
     ```
-    npm run compile # Compile TypeScript source
-    npm run migrate # Run migrations to set up the database
-    npm start
+    yarn compile # Compile TypeScript source
+    yarn migrate # Run migrations to set up the database
+    yarn dev
     ```
 
 ## Testing
 
-Run `npm test` and all your tests in the `test/` directory will be run.
+Run `yarn test` and all your tests in the `test/` directory will be run.
 
 ## Scaffolding
 
