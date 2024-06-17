@@ -6,6 +6,18 @@
 
 This project uses [Feathers](http://feathersjs.com). An open source framework for building APIs and real-time applications.
 
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Testing](#testing)
+- [Scaffolding](#scaffolding)
+- [Help](#help)
+- [Contributing](#contributing)
+- [Images](#images)
+
+
+
 ## Getting Started
 
 1. Make sure you have [NodeJS](https://nodejs.org/), [yarn](https://classic.yarnpkg.com/en/docs/install#mac-stable) and [postgresql](https://www.postgresql.org/) installed.
@@ -39,6 +51,33 @@ This project uses [Feathers](http://feathersjs.com). An open source framework fo
     yarn migrate # Run migrations to set up the database
     yarn dev
     ```
+
+## Usage
+
+Working on this Feathers chat application provides valuable learning experiences across various aspects of web development and software engineering. Here are some key lessons you can learn:
+
+### 1. Setting Up a Modern Web Application
+   - Dependency Management: Learn how to manage dependencies using Yarn.
+   - Environment Configuration: Understand the importance of environment variables for configuring your application securely and flexibly.
+
+### 2. Using FeathersJS
+   - API Development: Gain hands-on experience in building RESTful and real-time APIs using FeathersJS.
+   - **Service Architecture: Learn how to structure your application with services, making it modular and easy to maintain.
+
+### 3. Database Integration
+   - PostgreSQL Setup: Learn how to configure and connect to a PostgreSQL database.
+   - Migrations: Understand how to use database migrations to version and manage your database schema changes.
+
+### 4. TypeScript in Node.js**
+   - TypeScript Compilation**: Learn how to compile TypeScript code to JavaScript using a build process.
+   - Type Safety: Experience the benefits of using TypeScript for type safety and improved code quality.
+
+### 5. Real-Time Communication
+   - **WebSockets: Understand how real-time communication is implemented using WebSockets, enabling features like live chat.
+
+### 6. User Authentication
+   - Authentication: Implement user authentication, including sign-up and login functionalities, and learn how to manage user sessions securely.
+
 
 ## Testing
 
