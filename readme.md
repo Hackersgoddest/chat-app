@@ -31,7 +31,7 @@ This project uses [Feathers](http://feathersjs.com). An open source framework fo
 3. Install your dependencies
 
     ```
-    cd path/to/feathers-chat
+    cd feathers-chat
     yarn
     ```
 
