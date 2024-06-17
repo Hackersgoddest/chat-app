@@ -62,18 +62,18 @@ Working on this Feathers chat application provides valuable learning experiences
 
 ### 2. Using FeathersJS
    - API Development: Gain hands-on experience in building RESTful and real-time APIs using FeathersJS.
-   - **Service Architecture: Learn how to structure your application with services, making it modular and easy to maintain.
+   - Service Architecture: Learn how to structure your application with services, making it modular and easy to maintain.
 
 ### 3. Database Integration
    - PostgreSQL Setup: Learn how to configure and connect to a PostgreSQL database.
    - Migrations: Understand how to use database migrations to version and manage your database schema changes.
 
-### 4. TypeScript in Node.js**
-   - TypeScript Compilation**: Learn how to compile TypeScript code to JavaScript using a build process.
+### 4. TypeScript in Node.js
+   - TypeScript Compilation: Learn how to compile TypeScript code to JavaScript using a build process.
    - Type Safety: Experience the benefits of using TypeScript for type safety and improved code quality.
 
 ### 5. Real-Time Communication
-   - **WebSockets: Understand how real-time communication is implemented using WebSockets, enabling features like live chat.
+   - WebSockets: Understand how real-time communication is implemented using WebSockets, enabling features like live chat.
 
 ### 6. User Authentication
    - Authentication: Implement user authentication, including sign-up and login functionalities, and learn how to manage user sessions securely.
